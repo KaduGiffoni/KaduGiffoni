@@ -51,8 +51,8 @@ Tenho experiência prática como QA, Scrum Master e Product Owner. Entendo as do
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <<img title="Cypress" alt="Cypress" width="40px" src="https://raw.githubusercontent.com/KaduGiffoni/curso-cypress-simulator/main/assets/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2012_54_27.png" />
-  <img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://github.com/KaduGiffoni/curso-cypress-simulator/blob/main/assets/ChatGPT%20Image%2018%20de%20jul.%20de%202025,%2012_54_27.png?raw=true)" />
+  <img title="Cypress" alt="Cypress" height="40px" src="https://raw.githubusercontent.com/KaduGiffoni/curso-cypress-simulator/main/assets/cypress-white.png" />
+  <img title="Postman" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="Vue.js" alt="Vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
